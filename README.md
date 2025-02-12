@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, Im Sabareesh
+  Hi 👋 I'm Sabareesh
 </h1>
 
 ## 🌐 Socials:
