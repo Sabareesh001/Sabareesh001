@@ -3,7 +3,7 @@
 </h1>
 
 ## 💫 About Me:
-I'm a 3rd year Computer Science Student, Passionate about learning and doing Software development.
+I'm a Final year Computer Science Student, Passionate about learning and doing Software development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabareesh001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabareeshcomp@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-%23ED8B00.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Sabareesh_001/)
